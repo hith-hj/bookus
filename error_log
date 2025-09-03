@@ -1,0 +1,2 @@
+[22-Jul-2024 13:26:04 Asia/Dubai] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/bookus/public_html/vendor/symfony/string/UnicodeString.php on line 44
+[22-Jul-2024 13:30:02 Asia/Dubai] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/bookus/public_html/vendor/symfony/string/UnicodeString.php on line 44

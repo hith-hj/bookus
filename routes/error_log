@@ -1,0 +1,4 @@
+[29-May-2025 00:08:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/bookus/public_html/routes/api.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/bookus/public_html/routes/api.php on line 38
